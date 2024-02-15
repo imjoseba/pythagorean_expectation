@@ -12,8 +12,8 @@ This is a concept which can help to explain not only why teams are successful bu
 
 In this repository, you can explore the Pythagorean expectation for different sports:
 
-    Major League Baseball ⚾️
-    Basketball (Spanish ACB 2023/2024 season) 🏀
+    Major League Baseball (Season 2018) ⚾️ > baseball_MLB.ipynb + MLB18.xlsx
+    Basketball (Spanish ACB 2023/2024 season) 🏀 > basket_ACB.ipynb
     Football (LaLiga 2023/2024 season) ⚽️
 
 Feel free to dive in and explore the insights these analyses provide! 🚀
