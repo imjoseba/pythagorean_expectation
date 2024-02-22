@@ -14,6 +14,6 @@ In this repository, you can explore the Pythagorean expectation for different sp
 
     Major League Baseball (Season 2018) ⚾️ > baseball_MLB.ipynb + MLB18.xlsx
     Basketball (Spanish ACB 2023/2024 season) 🏀 > basket_ACB.ipynb
-    Football (LaLiga 2023/2024 season) ⚽️ > football_LaLiga.ipynb + LaLiga.csv football_xg.ipynb
+    Football (LaLiga 2023/2024 season) ⚽️ > football_LaLiga.ipynb + LaLiga.csv & football_xg.ipynb
 
 Feel free to dive in and explore the insights these analyses provide! 🚀
